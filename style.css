@@ -124,8 +124,9 @@ input{
         position: absolute;
         background-color: #FCF6F5FF ;
         border-color: black solid;
-        margin-top: 1.2%;
+        margin-top: 2%;
         padding: 0;
+        
         cursor: pointer;
     }
     h1{
@@ -142,5 +143,9 @@ input{
         font-size: 120%;
         padding: 2%;
         border: black solid;
+    }
+    
+     .fa fa-plus-circle{
+        font-size: 25px;
     }
 }
