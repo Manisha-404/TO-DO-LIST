@@ -108,6 +108,16 @@ input{
         margin: 0;
         background-color: #00203FFF ;
     } 
+    
+       input{
+        position: relative;
+        width: 70%;
+        margin: 2%;
+        background-color: #FCF6F5FF ;
+        color: black;
+        font-size: 150%;
+        padding: 1%;
+    }
 
     #add{
         position: absolute;
